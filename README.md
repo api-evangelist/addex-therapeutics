@@ -64,5 +64,19 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Addex Therapeutics is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by nea) and added to the network as a stub for full-pipeline profiling.
-- https://www.addextherapeutics.com
+Addex Therapeutics is a clinical‑stage biotechnology company focused on developing novel orally available small‑molecule allosteric modulators for neurological and neuropsychiatric disorders. The firm advances a pipeline of candidates targeting conditions such as Parkinson’s disease, schizophrenia, and substance use disorders, leveraging its proprietary allosteric modulation platform to address unmet medical needs.
+
+**Areas:** Company · Biotechnology · Pharmaceuticals · Neurology · Allosteric-Modulators · Clinical-Stage
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.addextherapeutics.com)
+- [Documentation](https://www.addextherapeutics.com/en/about-us/)
+- [Sign up](https://www.addextherapeutics.com/en/investors/register-email-news/)
+- [Privacy policy](https://www.addextherapeutics.com/en/about-us/privacy-policy/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/addex-therapeutics/](https://apis.io/providers/addex-therapeutics/).
